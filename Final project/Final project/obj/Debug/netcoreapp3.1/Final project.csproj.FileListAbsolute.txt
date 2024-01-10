@@ -1,0 +1,15 @@
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.exe
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.deps.json
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.json
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.dev.json
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.dll
+C:\Users\allan\source\repos\Final project\Final project\bin\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfo.cs
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.dll
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final project.genruntimeconfig.cache
+C:\Users\allan\source\repos\Final project\Final project\obj\Debug\netcoreapp3.1\Final_project.SimpleCalculator.resources
